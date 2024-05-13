@@ -15,7 +15,7 @@ FarmFinder assists new farmers in finding the best farm options based on prefere
 
 ## Getting Started
 
-Visit the live site: [here](http://your-farmfinder-site.com).
+Visit the live site: [here]([http://your-farmfinder-site.com](http://farmfinder.kesug.com/farmer.php)).
 
 ## Contributing
 
